@@ -3,5 +3,5 @@ In this notebook I analyze Dubai's vulnerability to both direct and indirect dam
 
 
 David Lopez
-University of California, San Diego
-david.eric.lopez@gmail.com
+<br> University of California, San Diego
+<br> david.eric.lopez@gmail.com
